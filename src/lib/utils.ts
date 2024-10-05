@@ -64,10 +64,10 @@ export function url_resolver(_type: "api" | "local"): string {
   }
   // External
   if (_type === "api") {
-    return "https://neosahadeo.pythonanywhere.com/";
+    return "https://tacobabyman.pythonanywhere.com/";
   }
   if (_type === "local") {
-    return "https://neosahadeo.github.io/Helios3/";
+    return "https://neosahadeo.github.io/Helios3Demo/";
   }
 
   // This is for typescript-- ignore it
