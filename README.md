@@ -6,8 +6,10 @@ This is currently the demo build for public use.
 
 ## Login Details
 
-`username` demo
-`password` password1234
+| Username | demo         |
+|----------|--------------|
+| Password | password1234 |
+
 
 ## What is Helios3
 
